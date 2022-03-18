@@ -12,6 +12,7 @@
 
 - 📈 Data vizualization with D3.js
 - 💥 Svelte/Sveltekit
+- 🦀 Rust
 
 ##### Bio
 
