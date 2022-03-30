@@ -19,7 +19,7 @@
 - 🧑🏽‍🎓 Finishing full-stack web developer course (*yrkeshögskola*) at [Nackademin](https://nackademin.se/utbildningar/webbutvecklare-fullstack-open-source/)
 - 👨🏽‍💻 Internship at [Yayloh](https://yayloh.com). 
 - ⚙️  I use daily: `.jsx`, `.js`, `.py`, `.html`, `.css`.
-- 💅 Designed: [MOG](https://marsianog.com), [rods.dev](https://rods.dev), [fitnessfia.com](https://fitnessfia.com/home)
+- 💅 Designed: [MOG](https://marsianog.com), [rods.dev](https://rods.dev), [fitnessfia.com](https://fitnessfia.com)
 - 💬 Ping me about **full-stack development**, **design**, **ui/ux**,  **fermi paradox**
 
 #### More about me
