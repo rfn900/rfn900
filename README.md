@@ -2,13 +2,13 @@
 
 #### I'm a Full-Stack Developer based in Stockholm, Sweden.
 
-##### Currently working on
+##### Projects I run on my spare time
 
 - 🤖 Business automation with Python;
 - ✨ Building a serverless api Python/Flask + AWS lambda
 - 🛒 Headless E-commerce with Nextjs + Typescript + Tailwindcss + Shopify
 
-##### Currently Learning
+##### Currently Learning for fun
 
 - 📈 Data vizualization with D3.js
 - 💥 Svelte/Sveltekit
@@ -16,9 +16,9 @@
 
 ##### Bio
 
-- 🧑🏽‍🎓 Finishing full-stack web developer course (*yrkeshögskola*) at [Nackademin](https://nackademin.se/utbildningar/webbutvecklare-fullstack-open-source/)
-- 👨🏽‍💻 Internship at [Yayloh](https://yayloh.com). 
-- ⚙️  I use daily: `.jsx`, `.js`, `.py`, `.html`, `.css`.
+- 🧬 Full-Stack developer in Biotech at [Anocca AB](https://anocca.com)
+- 🧑🏽‍🎓 Graduated full-stack web developer course (*yrkeshögskola*) at [Nackademin](https://nackademin.se/utbildningar/webbutvecklare-fullstack-open-source/)
+- ⚙️  I use daily: `.tsx`, `.ts`, `.py`, `.html`, `.css`.
 - 💅 Designed: [MOG](https://marsianog.com), [rods.dev](https://rods.dev), [fitnessfia.com](https://fitnessfia.com)
 - 💬 Ping me about **full-stack development**, **design**, **ui/ux**,  **fermi paradox**
 
